@@ -1,4 +1,4 @@
-[![Header](https://github.com/anastluniova/anastluniova/blob/main/assets/Logo.png)])
+![Header](https://github.com/anastluniova/anastluniova/blob/main/assets/Logo.png)
 ## I'm a junior QA Engineer. 
  
 ## My CV
