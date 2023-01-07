@@ -25,5 +25,5 @@
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Follow Me
-[![Header](https://www.instagram.com/gornia/)
+[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/gornia/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastluniova&show_icons=true&theme=radical)
