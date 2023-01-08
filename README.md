@@ -26,4 +26,4 @@
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/gornia/)
-[![Header](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=9939a3)](https://vk.com/nastyasha_gordeeva)
+[![Header](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=136be1)](https://vk.com/nastyasha_gordeeva)
