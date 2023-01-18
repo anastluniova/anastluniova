@@ -1,5 +1,5 @@
 ![Header](https://github.com/anastluniova/anastluniova/blob/main/assets/Logo.png)
-## I'm a junior QA Engineer. 
+## I'm a QA Engineer. 
  
 ## My CV
 [Link to my CV](https://github.com/anastluniova/anastluniova/blob/main/CV_Anastasia_Luniova.pdf)
