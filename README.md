@@ -2,7 +2,7 @@
 ## I'm a junior QA Engineer. 
  
 ## My CV
-[Link to my CV](https://github.com/anastluniova/anastluniova/blob/main/Anastasia%20Luniova.pdf)
+[Link to my CV](https://github.com/anastluniova/anastluniova/blob/main/CV_Anastasia_Luniova.pdf)
 
 
 ### Language and Tools
