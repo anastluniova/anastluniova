@@ -25,5 +25,6 @@
 - [Postman Collections](https://github.com/anastluniova/postman)
 
 ### Follow Me
+[![Header](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=9939a3)](https://www.linkedin.com/in/anastasia-luniova/)
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/gornia/)
 [![Header](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=136be1)](https://vk.com/nastyasha_gordeeva)
